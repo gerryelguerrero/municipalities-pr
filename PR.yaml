@@ -1,0 +1,949 @@
+---
+ADJ:
+  unofficial_names: Adjuntas
+  translations:
+    en: Adjuntas
+  geo:
+    latitude: 18.163485
+    longitude: -66.723158
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Adjuntas
+AGD:
+  unofficial_names: Aguada
+  translations:
+    en: Aguada
+  geo:
+    latitude: 18.380158
+    longitude: -67.188704
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Aguada
+AGL:
+  unofficial_names: Aguadilla
+  translations:
+    en: Aguadilla
+  geo:
+    latitude: 18.427445
+    longitude: -67.154070
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Aguadilla
+ABU:
+  unofficial_names: Aguas Buenas
+  translations:
+    en: Aguas Buenas
+  geo:
+    latitude: 18.256899
+    longitude: -66.102944
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Aguas Buenas
+AIB:
+  unofficial_names: Aibonito
+  translations:
+    en: Aibonito
+  geo:
+    latitude: 18.140702
+    longitude: -66.259681
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Aibonito
+ANA:
+  unofficial_names: Añasco
+  translations:
+    en: Añasco
+  geo:
+    latitude: 18.285448
+    longitude: -67.140293
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Añasco
+ADJ:
+  unofficial_names: Adjuntas
+  translations:
+    en: Adjuntas
+  geo:
+    latitude: 18.163485
+    longitude: -66.723158
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Adjuntas
+ARE:
+  unofficial_names: Arecibo
+  translations:
+    en: Arecibo
+  geo:
+    latitude: 18.444247
+    longitude: -66.646407
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Arecibo
+ARR:
+  unofficial_names: Arroyo
+  translations:
+    en: Arroyo
+  geo:
+    latitude: 17.965801
+    longitude: -66.061276
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Arroyo
+BCL:
+  unofficial_names: Barceloneta
+  translations:
+    en: Barceloneta
+  geo:
+    latitude: 18.454706
+    longitude: -66.538389
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Barceloneta
+BQT:
+  unofficial_names: Barranquitas
+  translations:
+    en: Barranquitas
+  geo:
+    latitude: 18.186624
+    longitude: -66.306280
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Barranquitas
+BAY:
+  unofficial_names: Bayamón
+  translations:
+    en: Bayamón
+  geo:
+    latitude: 18.369196
+    longitude: -66.165967
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Bayamón
+CAB:
+  unofficial_names: Cabo Rojo
+  translations:
+    en: Cabo Rojo
+  geo:
+    latitude: 18.087535
+    longitude: -67.146996
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Cabo Rojo
+CAG:
+  unofficial_names: Caguas
+  translations:
+    en: Caguas
+  geo:
+    latitude: 18.238799
+    longitude: -66.035249
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Caguas
+CAM:
+  unofficial_names: Camuy
+  translations:
+    en: Camuy
+  geo:
+    latitude: 18.483833
+    longitude: -66.844899
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Camuy
+CAN:
+  unofficial_names: Canóvanas
+  translations:
+    en: Canóvanas
+  geo:
+    latitude: 18.374875
+    longitude: -65.899753
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Canóvanas
+CAR:
+  unofficial_names: Carolina
+  translations:
+    en: Carolina
+  geo:
+    latitude: 18.380326
+    longitude: -65.962621
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Carolina
+CAT:
+  unofficial_names: Cataño
+  translations:
+    en: Cataño
+  geo:
+    latitude: 18.446535
+    longitude: -66.135578
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Cataño
+CAY:
+  unofficial_names: Cayey
+  translations:
+    en: Cayey
+  geo:
+    latitude: 18.116196
+    longitude: -66.145721
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Cayey
+CEI:
+  unofficial_names: Ceiba
+  translations:
+    en: Ceiba
+  geo:
+    latitude: 18.261914
+    longitude: -65.648106
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Ceiba
+CIA:
+  unofficial_names: Ciales
+  translations:
+    en: Ciales
+  geo:
+    latitude: 18.335325
+    longitude: -66.468072
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Ciales
+CID:
+  unofficial_names: Cidra
+  translations:
+    en: Cidra
+  geo:
+    latitude: 18.175791
+    longitude: -66.161278
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Cidra
+COA:
+  unofficial_names: Coamo
+  translations:
+    en: Coamo
+  geo:
+    latitude: 18.079962
+    longitude: -66.357947
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Coamo
+COM:
+  unofficial_names: Comerío
+  translations:
+    en: Comerío
+  geo:
+    latitude: 18.221098
+    longitude: -66.223440
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Comerío
+COR:
+  unofficial_names: Corozal
+  translations:
+    en: Corozal
+  geo:
+    latitude: 18.341062
+    longitude: -66.316836
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Corozal
+CUL:
+  unofficial_names: Culebra
+  translations:
+    en: Culebra
+  geo:
+    latitude: 18.310394
+    longitude: -65.303070
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Culebra
+DOR:
+  unofficial_names: Dorado
+  translations:
+    en: Dorado
+  geo:
+    latitude: 18.458835
+    longitude: -66.267668
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Dorado
+FAJ:
+  unofficial_names: Fajardo
+  translations:
+    en: Fajardo
+  geo:
+    latitude: 18.325787
+    longitude: -65.652384
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Fajardo
+FLO:
+  unofficial_names: Florida
+  translations:
+    en: Florida
+  geo:
+    latitude: 18.363009
+    longitude: -66.558109
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Florida
+GNC:
+  unofficial_names: Guánica
+  translations:
+    en: Guánica
+  geo:
+    latitude: 17.972514
+    longitude: -66.908626
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Guánica
+GYM:
+  unofficial_names: Guayama
+  translations:
+    en: Guayama
+  geo:
+    latitude: 17.984133
+    longitude: -66.113777
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Guayama
+GYL:
+  unofficial_names: Guayanilla
+  translations:
+    en: Guayanilla
+  geo:
+    latitude: 18.019131
+    longitude: -66.791842
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Guayanilla
+GYB:
+  unofficial_names: Guaynabo
+  translations:
+    en: Guaynabo
+  geo:
+    latitude: 18.361555
+    longitude: -66.111068
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Guaynabo
+GUR:
+  unofficial_names: Gurabo
+  translations:
+    en: Gurabo
+  geo:
+    latitude: 18.254399
+    longitude: -65.972942
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Gurabo
+HAT:
+  unofficial_names: Hatillo
+  translations:
+    en: Hatillo
+  geo:
+    latitude: 18.428464
+    longitude: -66.787532
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Hatillo
+HOR:
+  unofficial_names: Hormigueros
+  translations:
+    en: Hormigueros
+  geo:
+    latitude: 18.133464
+    longitude: -67.112812
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Hormigueros
+HUM:
+  unofficial_names: Humacao
+  translations:
+    en: Humacao
+  geo:
+    latitude: 18.155134
+    longitude: -65.820394
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Humacao
+ISA:
+  unofficial_names: Isabela
+  translations:
+    en: Isabela
+  geo:
+    latitude: 18.470386
+    longitude: -67.024206
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Isabela
+JAY:
+  unofficial_names: Jayuya
+  translations:
+    en: Jayuya
+  geo:
+    latitude: 18.218567
+    longitude: -66.591562
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Jayuya
+JUA:
+  unofficial_names: Juana Díaz
+  translations:
+    en: Juana Díaz
+  geo:
+    latitude: 18.053437
+    longitude: -66.507508
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Juana Díaz
+JUN:
+  unofficial_names: Juncos
+  translations:
+    en: Juncos
+  geo:
+    latitude: 18.227456
+    longitude: -65.920997
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Juncos
+LAJ:
+  unofficial_names: Lajas
+  translations:
+    en: Lajas
+  geo:
+    latitude: 18.049962
+    longitude: -67.059345
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Lajas
+LAR:
+  unofficial_names: Lares
+  translations:
+    en: Lares
+  geo:
+    latitude: 18.294675
+    longitude: -66.877121
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Lares
+LMA:
+  unofficial_names: Las Marías
+  translations:
+    en: Las Marías
+  geo:
+    latitude: 18.252018
+    longitude: -66.989605
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Las Marías
+LPI:
+  unofficial_names: Las Piedras
+  translations:
+    en: Las Piedras
+  geo:
+    latitude: 18.185575
+    longitude: -65.873625
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Las Piedras
+LOI:
+  unofficial_names: Loíza
+  translations:
+    en: Loíza
+  geo:
+    latitude: 18.426430
+    longitude: -65.880043
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Loíza
+LUQ:
+  unofficial_names: Luquillo
+  translations:
+    en: Luquillo
+  geo:
+    latitude: 18.378986
+    longitude: -65.720656
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Luquillo
+MAN:
+  unofficial_names: Manatí
+  translations:
+    en: Manatí
+  geo:
+    latitude: 18.433005
+    longitude: -66.475858
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Manatí
+MAR:
+  unofficial_names: Maricao
+  translations:
+    en: Maricao
+  geo:
+    latitude: 18.180790
+    longitude: -66.979900
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Maricao
+MAU:
+  unofficial_names: Maunabo
+  translations:
+    en: Maunabo
+  geo:
+    latitude: 18.007189
+    longitude: -65.899329
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Maunabo
+MAY:
+  unofficial_names: Mayagüez
+  translations:
+    en: Mayagüez
+  geo:
+    latitude: 18.201345
+    longitude: -67.145155
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Mayagüez
+MOC:
+  unofficial_names: Moca
+  translations:
+    en: Moca
+  geo:
+    latitude: 18.394669
+    longitude: -67.113236
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Moca
+MOR:
+  unofficial_names: Morovis
+  translations:
+    en: Morovis
+  geo:
+    latitude: 18.325785
+    longitude: -66.406559
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Morovis
+NAG:
+  unofficial_names: Naguabo
+  translations:
+    en: Naguabo
+  geo:
+    latitude: 18.211625
+    longitude: -65.734884
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Naguabo
+NAR:
+  unofficial_names: Naranjito
+  translations:
+    en: Naranjito
+  geo:
+    latitude: 18.300786
+    longitude: -66.244890
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Naranjito
+ORO:
+  unofficial_names: Orocovis
+  translations:
+    en: Orocovis
+  geo:
+    latitude: 18.226922
+    longitude: -66.391169
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Orocovis
+PAT:
+  unofficial_names: Patillas
+  translations:
+    en: Patillas
+  geo:
+    latitude: 18.006354
+    longitude: -66.015719
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Patillas
+PEN:
+  unofficial_names: Peñuelas
+  translations:
+    en: Peñuelas
+  geo:
+    latitude: 18.063358
+    longitude: -66.727390
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Peñuelas
+PON:
+  unofficial_names: Ponce
+  translations:
+    en: Ponce
+  geo:
+    latitude: 18.011077
+    longitude: -66.614062
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Ponce
+QUE:
+  unofficial_names: Quebradillas
+  translations:
+    en: Quebradillas
+  geo:
+    latitude: 18.470959
+    longitude: -66.934258
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Quebradillas
+RIN:
+  unofficial_names: Rincón
+  translations:
+    en: Rincón
+  geo:
+    latitude: 18.340151
+    longitude: -67.249946
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Rincón
+RGR:
+  unofficial_names: Río Grande
+  translations:
+    en: Río Grande
+  geo:
+    latitude: 18.378620
+    longitude: -65.839334
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Río Grande
+SGR:
+  unofficial_names: Sabana Grande
+  translations:
+    en: Sabana Grande
+  geo:
+    latitude: 18.077739
+    longitude: -66.960455
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Sabana Grande
+SAL:
+  unofficial_names: Salinas
+  translations:
+    en: Salinas
+  geo:
+    latitude: 17.977466
+    longitude: -66.297946
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Salinas
+SGE:
+  unofficial_names: San Germán
+  translations:
+    en: San Germán
+  geo:
+    latitude: 18.080708
+    longitude: -67.041110
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: San Germán
+SJU:
+  unofficial_names: San Juan
+  translations:
+    en: San Juan
+  geo:
+    latitude: 18.465539
+    longitude: -66.105735
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: San Juan
+SLO:
+  unofficial_names: San Lorenzo
+  translations:
+    en: San Lorenzo
+  geo:
+    latitude: 18.189402
+    longitude: -65.960997
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: San Lorenzo
+SSE:
+  unofficial_names: San Sebastián
+  translations:
+    en: San Sebastián
+  geo:
+    latitude: 18.335476
+    longitude: -66.994679
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: San Sebastián
+SIS:
+  unofficial_names: Santa Isabel
+  translations:
+    en: Santa Isabel
+  geo:
+    latitude: 18.004677
+    longitude: -66.389794
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Santa Isabel
+TAL:
+  unofficial_names: Toa Alta
+  translations:
+    en: Toa Alta
+  geo:
+    latitude: 18.388282
+    longitude: -66.248224
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Toa Alta
+TBA:
+  unofficial_names: Toa Baja
+  translations:
+    en: Toa Baja
+  geo:
+    latitude: 18.444471
+    longitude: -66.254329
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Toa Baja
+TRU:
+  unofficial_names: Trujillo Alto
+  translations:
+    en: Trujillo Alto
+  geo:
+    latitude: 18.354672
+    longitude: -66.007388
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Trujillo Alto
+UTU:
+  unofficial_names: Utuado
+  translations:
+    en: Utuado
+  geo:
+    latitude: 18.265510
+    longitude: -66.700452
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Utuado
+VAL:
+  unofficial_names: Vega Alta
+  translations:
+    en: Vega Alta
+  geo:
+    latitude: 18.412170
+    longitude: -66.331280
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Vega Alta
+VBA:
+  unofficial_names: Vega Baja
+  translations:
+    en: Vega Baja
+  geo:
+    latitude: 18.444391
+    longitude: -66.387670
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Vega Baja
+VIE:
+  unofficial_names: Vieques
+  translations:
+    en: Vieques
+  geo:
+    latitude: 18.126285
+    longitude: -65.440098
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Vieques
+VIL:
+  unofficial_names: Villalba
+  translations:
+    en: Villalba
+  geo:
+    latitude: 18.121755
+    longitude: -66.498579
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Villalba
+YAB:
+  unofficial_names: Yabucoa
+  translations:
+    en: Yabucoa
+  geo:
+    latitude: 18.050520
+    longitude: -65.879329
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Yabucoa
+YAU:
+  unofficial_names: Yauco
+  translations:
+    en: Yauco
+  geo:
+    latitude: 18.034964
+    longitude: -66.849898
+    min_latitude:
+    min_longitude:
+    max_latitude:
+    max_longitude:
+  name: Yauco
